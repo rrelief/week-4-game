@@ -1,0 +1,53 @@
+body {
+    background: silver
+}
+
+.Maintitle {
+    text-align: center;
+    background-color: mintcream;
+    color: navy;
+    font: bold;
+    margin-top: 20px;
+    margin-bottom:20px;
+    font-size: 52pt;
+    border: 2px solid midnightblue;
+    border-radius: 20px;
+    border-left-width: 100px;
+    border-right-width: 100px;
+}
+
+.instructions{
+    text-align: justify;
+    text-indent: 2%;
+    border: 2px solid #cd7f32;
+    border-radius: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 14pt;
+}
+
+#TargetNumber{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 20pt;
+    font: bold;
+}
+
+.winlossBox{
+    text-align: center;
+    font-size: 16pt;
+}
+#gems{
+    text-align: center;
+    background-color: white;
+    padding-top: 2px;
+    border: 2px solid navy;
+    border-radius: 40px;
+    border-left-width: 200px;
+    border-right-width: 200px;
+}
+
+#scoreBox{
+    text-align: center;
+    font-size: 16pt;
+}
